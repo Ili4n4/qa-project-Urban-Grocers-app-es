@@ -8,7 +8,7 @@ de productos para el usuario,ejecutando
 las pruebas positivas y negativas en base
 a los requisitos de la solicitud.
 También se revisarán los códigos de 
-respuesta esperados y actuales.
+respuesta esperados y actuales
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚒️Tecnologías: PyCharm, GitHub
