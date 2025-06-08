@@ -3,15 +3,13 @@ Proyecto: Urban Grocers
 
 🎯Objetivo:
 
-El objetivo del proyecto es crear un kit 
-de productos para el usuario,ejecutando
-las pruebas positivas y negativas en base
-a los requisitos de la solicitud.
-También se revisarán los códigos de 
-respuesta esperados y actuales
+El objetivo del proyecto es crear un kit de productos para el usuario,ejecutando las pruebas positivas y negativas en base a los requisitos de la solicitud.
+También se revisarán los códigos de respuesta esperados y actuales
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚒️Tecnologías: PyCharm, GitHub
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📍Pasos a seguir:
@@ -22,6 +20,8 @@ respuesta esperados y actuales
 5. Entrega de proyecto
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
+🪄Logro:
+Automaticé las pruebas positivas y negativas desde la checklist, logrando una cobertura del 100 % de los requisitos.
 
 
 
